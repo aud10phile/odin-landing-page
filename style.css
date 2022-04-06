@@ -137,6 +137,16 @@ a {
 }
 
 /* CTA */
+.cta-content {
+    margin: 150px 0px;
+    padding: 15px 200px;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-between;
+}
 
+.cta-content button {
+    border: solid white 2px;
+}
 
 /* Footer */
