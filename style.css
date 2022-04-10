@@ -143,6 +143,11 @@ a {
     background-color: #3882f6;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+.cta-text {
+    color: #f9faf8;
 }
 
 .cta-content button {
@@ -150,3 +155,10 @@ a {
 }
 
 /* Footer */
+.footer {
+    margin: 0;
+    padding: 15px 100px;
+    background-color: #1f2937;
+    color: #f9faf8;
+    text-align: center;
+}
